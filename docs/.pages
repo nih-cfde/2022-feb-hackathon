@@ -1,3 +1,4 @@
-nav:
-    - Information for Participants: participants.md
-    - About the Data: about.md
+arrange:
+    - index.md
+    - participants.md
+    - about.md
