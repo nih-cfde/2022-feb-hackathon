@@ -1,0 +1,5 @@
+site_name: 2022 February Common Fund Hackathon
+theme: readthedocs
+nav:
+    - Information for Participants: participants.md
+    - About the Data: about.md
