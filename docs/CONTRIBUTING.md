@@ -11,7 +11,7 @@ By contributing to this repository, you agree:
 
 1.  To obey the [Code of Conduct](CODEOFCONDUCT.md)
 2.  To release all your contributions under the same terms as the
-    license itself: the [Creative Commons Zero](LICENSE.md) (aka
+    license itself: the [Creative Commons Zero](LICENSE.md/) (aka
     Public Domain) license
 
 If you are OK with these two conditions, then we welcome both you and

@@ -5,6 +5,7 @@ title: Code of Conduct
 
 # Code of Conduct
 
+## The Quick Version
 
 All organizers and participants of the Common Fund Data Ecosystem (CFDE)
 are expected to agree with the following code

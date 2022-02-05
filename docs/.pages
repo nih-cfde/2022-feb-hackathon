@@ -1,7 +1,7 @@
 arrange:
     - index.md
-    - participants.md
     - about.md
     - schedule.md
     - CODEOFCONDUCT.md
     - CONTRIBUTING.md
+    - LICENSE.md
