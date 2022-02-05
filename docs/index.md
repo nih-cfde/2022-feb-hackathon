@@ -16,4 +16,4 @@ The hackathon is open to the public, and anyone can attend. Despite the name “
 
 To register or find more information here: [https://www.nih-cfde.org/events/hackathon/](https://www.nih-cfde.org/events/hackathon/)
 
-Please don’t hesitate to contact Jessica Lumian (jelumian@ucdavis.edu) with any questions!
+Please don’t hesitate to contact training@cfde.atlassian.net with any questions!
