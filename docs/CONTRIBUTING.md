@@ -3,9 +3,9 @@ layout: default
 title: Contributing
 ---
 
-## Contributing to the https://nih-cfde.github.io/2022-feb-hackathon/
+## Contributing to the [https://github.com/nih-cfde/2022-feb-hackathon](https://github.com/nih-cfde/2022-feb-hackathon)
 
-Hello, and thank you for wanting to contribute to the 2022-feb-hackathon Repository\!
+Hello, and thank you for wanting to contribute to the [2022-feb-hackathon Repository](https://github.com/nih-cfde/2022-feb-hackathon)\!
 
 By contributing to this repository, you agree:
 
