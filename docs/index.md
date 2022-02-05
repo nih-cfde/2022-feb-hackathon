@@ -12,6 +12,8 @@ We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosti
 
 The hackathon is open to the public, and anyone can attend. Despite the name “hackathon”, participants don’t need to be experts in computer science! The most important criteria is interest in the data sets, and some familiarity with the command line and GitHub is helpful but not required.
 
+#### Registration
+
 To register or find more information here: [https://www.nih-cfde.org/events/hackathon/](https://www.nih-cfde.org/events/hackathon/)
 
 Please don’t hesitate to contact Jessica Lumian (jelumian@ucdavis.edu) with any questions!
