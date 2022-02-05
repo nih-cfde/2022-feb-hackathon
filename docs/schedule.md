@@ -4,7 +4,7 @@
 This hackathon will consist of scheduled hackathon sessions and asynchornous work. Participants are encouraged as much as their time and interest allow!
 
 ### Hackathon Sessions
-Participants are welcome to participate in whichever hackathon sessions they are interested in. Hackathon sessions will generally begin with an introduction to the data and then allow participants to work toward goals.
+Participants are welcome to participate in whichever hackathon sessions they are interested in. Hackathon sessions will generally begin with an introduction to the data and then allow participants to work toward goals. Participants only need to register for the event once to get access to all the sesions.
 
 | Data | Time | Topic | Links | 
 | --- | --- | --- | --- |
