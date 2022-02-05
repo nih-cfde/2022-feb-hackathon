@@ -10,7 +10,7 @@ title: Code of Conduct
 All organizers and participants of the Common Fund Data Ecosystem (CFDE)
 are expected to agree with the following code
 of conduct. We will enforce this code as needed. We expect cooperation
-from all participants to help ensuring a safe environment for everybody.
+from all participants to help ensure a safe environment for everybody.
 
 The CFDE is dedicated to providing a harassment-free experience
 for everyone, regardless of gender, gender identity and expression, age,
@@ -44,4 +44,4 @@ We expect participants to follow these guidelines at any CFDE event.
 Original source and credit: <http://2012.jsconf.us/#/about> & The Ada
 Initiative. Please help by translating or improving:
 <http://github.com/leftlogic/confcodeofconduct.com>. This work is
-licensed under a Creative Commons Attribution 3.0 Unported License
+licensed under a Creative Commons Attribution 3.0 Unported License.
