@@ -1,6 +1,10 @@
 #### [Common Fund Data Ecosystem (CFDE) Search Portal](https://app.nih-cfde.org/)
 
-The [CFDE search portal](https://app.nih-cfde.org/) provides access to Common Fund data across all programs. The biggest sources of data are the Human Microbiome Project and Kids First Data Resource Center. The portal also provides access to Extracellular RNA communication, Library of Integrated Network-Based Cell Signatures, and Genotype-Tissue Expression data sets.
+The [CFDE search portal](https://app.nih-cfde.org/) provides metadata
+search functionality to
+[NIH Common Fund data](https://commonfund.nih.gov/) across many
+programs. Hackathon activities for this round will focus on accessing,
+exporting, and working with Human Microbiome Project data sets.
 
 #### [Extracellular RNA Communication (exRNA)](https://exrna-atlas.org/)
 
