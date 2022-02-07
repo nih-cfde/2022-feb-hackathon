@@ -2,6 +2,7 @@ arrange:
     - index.md
     - about.md
     - schedule.md
+    - engagement.md
     - CODEOFCONDUCT.md
     - CONTRIBUTING.md
     - LICENSE.md
