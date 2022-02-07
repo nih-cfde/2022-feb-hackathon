@@ -1,8 +1,8 @@
 #### [Common Fund Data Ecosystem (CFDE) Search Portal](https://app.nih-cfde.org/)
 
 The [CFDE search portal](https://app.nih-cfde.org/) provides metadata
-search functionality to
-[NIH Common Fund data](https://commonfund.nih.gov/) across many
+search functionality across
+[NIH Common Fund data](https://commonfund.nih.gov/) for many
 programs. Guided hackathon activities for this round will focus on
 accessing, exporting, and working with Human Microbiome Project data
 sets, but we encourage participants to explore all of the data available
