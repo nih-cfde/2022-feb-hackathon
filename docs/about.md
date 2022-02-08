@@ -16,7 +16,7 @@ through the portal!
 
 2) Interrogating other sites across the genome by intersecting exRNA Atlas data with regions of interest using BedGraph files (“data slicing”), and the broader application of this approach to non-RBP sites and other data sets. 
 
-#### [Metabolomics Workbench](https://www.metabolomicsworkbench.org/)
+#### [Metabolomics Workbench (MW)](https://www.metabolomicsworkbench.org/)
 
 [Metabolomics Workbench](https://www.metabolomicsworkbench.org/) (MW) is the NIH Common Fund's National Metabolomics Data Repository (NMDR). The MW provides a platform to deposit metabolomics data by researchers across the world, and provides tools to browse, analyze and visualize such data and the related metabolite structures and annotations. Currently, the MW has about 1,700 publicly released studies. The MW metabolite database currently has more than 164,000 entries with the ability to search by text, substructure and m/z values. Tutorials about various aspects of the MW data are provided [here](https://www.metabolomicsworkbench.org/data/tutorials.php). 
 
