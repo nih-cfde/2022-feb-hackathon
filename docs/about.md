@@ -18,7 +18,7 @@ through the portal!
 
 #### [Metabolomics Workbench](https://www.metabolomicsworkbench.org/)
 
-[Metabolomics Workbench](https://www.metabolomicsworkbench.org/) is a collection of structures and annotations of over biologically relevant metabolites with over 164,000 entries.
+[Metabolomics Workbench](https://www.metabolomicsworkbench.org/) (MW) is the NIH Common Fund's National Metabolomics Data Repository (NMDR). The MW provides a platform to deposit metabolomics data by researchers across the world, and provides tools to browse, analyze and visualize such data and the related metabolite structures and annotations. Currently, the MW has about 1,700 publicly released studies. The MW metabolite database currently has more than 164,000 entries with the ability to search by text, substructure and m/z values. Tutorials about various aspects of the MW data are provided [here](https://www.metabolomicsworkbench.org/data/tutorials.php). 
 
 #### [Signature Commons Library of Integrated Network-Based Cell Signatures (LINCS)](https://maayanlab.cloud/sigcom-lincs/#/SignatureSearch/UpDown)
 
