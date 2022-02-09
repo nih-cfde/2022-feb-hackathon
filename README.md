@@ -13,7 +13,8 @@ Register here: [https://www.nih-cfde.org/events/hackathon/](https://www.nih-cfde
 | Data | Time | Topic | Links | 
 | --- | --- | --- | --- |
 | Monday 2/21 |  9 am - 11:30 am PT | Introduction to data sets | |
-| Tuesday 2/22 | 9 am - 11:30 am PT | exRNA data hackathon session | [exRNA Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/3) |
+| Monday 2/21 |  12 pm - 2:30 pm PT | CFDE Portal hackathon session | [CFDE Portal Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/8) |
+| Tuesday 2/22 | 9 am - 11:30 am PT | exRNA data hackathon session | [exRNA Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/2) |
 | Wednesday 2/23 | 9 am - 11:30 am PT | Metabolomics Workbench hackathon session | [Metabolomics Workbench Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/3) |
 | Thursday 2/24 | 11:30 pm - 2 pm PT | SigCom LINCS hackathon session | [SigCom LINCS Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/4) |
 | Friday 2/25 | 9 am - 11:30 am PT | Wrap up & future directions | |
