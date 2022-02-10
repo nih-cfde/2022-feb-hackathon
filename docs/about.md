@@ -26,4 +26,4 @@ through the portal!
 
 #### [Human Microbiome Project](https://portal.hmpdacc.org/)
 
-[HMP](https://portal.hmpdacc.org/) is contains over 31,000 samples from 48 sites on the human body. The HMP session will involve pulling data from this portal and assembling it with Amazon Web Services.
+[HMP](https://portal.hmpdacc.org/) contains over 31,000 samples from 48 sites on the human body. The HMP session will involve pulling data from the portal and assembling it with Amazon Web Services.
