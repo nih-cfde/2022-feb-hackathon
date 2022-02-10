@@ -23,3 +23,7 @@ through the portal!
 #### [Signature Commons Library of Integrated Network-Based Cell Signatures (LINCS)](https://maayanlab.cloud/sigcom-lincs/#/SignatureSearch/UpDown)
 
 [SigCom LINCS](https://maayanlab.cloud/sigcom-lincs/#/SignatureSearch/UpDown) is web-based search engine representing over 1.5 million gene expression signatures processed, visualized, and analyzed from LINCS, GTEx, and GEO databases.
+
+#### [Human Microbiome Project](https://portal.hmpdacc.org/)
+
+[HMP](https://portal.hmpdacc.org/) is contains over 31,000 samples from 48 sites on the human body. The HMP session will involve pulling data from this portal and assembling it with Amazon Web Services.
