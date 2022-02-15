@@ -10,7 +10,7 @@ Register here: [https://www.nih-cfde.org/events/hackathon/](https://www.nih-cfde
 
 ## Schedule
 
-| Data | Time | Topic | Links | 
+| Date | Time | Topic | Links | 
 | --- | --- | --- | --- |
 | Monday 2/21 |  9 am - 11:30 am PT | Introduction to data sets | |
 | Monday 2/21 |  12 pm - 2:30 pm PT | CFDE Portal hackathon session | [CFDE Portal Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/8) |
