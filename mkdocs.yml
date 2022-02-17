@@ -9,7 +9,7 @@ docs_dir: ./docs
 
 nav:
     - Home: index.md
-    - Potential Projects: about.md
+    - Session Details: about.md
     - Schedule: schedule.md
     - Continued CFDE Engagement: engagement.md
     - Code of Conduct: CODEOFCONDUCT.md
