@@ -6,7 +6,7 @@ The [CFDE search portal](https://app.nih-cfde.org/) provides metadata
 search functionality across
 [NIH Common Fund data](https://commonfund.nih.gov/) for many
 programs. Guided hackathon activities for this round will focus on
-accessing, exporting, and working with Human Microbiome Project data
+accessing, exporting, and working a variety of data
 sets, but we encourage participants to explore all of the data available
 through the portal!
 
@@ -32,7 +32,7 @@ Tuesday, 2/22 9 am - 11:30 am PT
 
 Tuesday, 2/22 12 pm - 2:30 pm PT
 
-The [HMP](https://portal.hmpdacc.org/) Portal contains over 31,000 samples from 48 sites on the human body. The HMP session will involve pulling data from the portal and assembling it with Amazon Web Services.
+The [HMP](https://portal.hmpdacc.org/) Portal contains over 31,000 samples from 48 sites on the human body. The HMP session will involve pulling data from the [CFDE  portal](https://app.nih-cfde.org/) and interacting analyzing it with Amazon Web Services.
 
 [HMP calendar information](https://www.nih-cfde.org/events/hackathon/)
 
@@ -54,7 +54,7 @@ The Metabolomics Workbench Hackathon Session will provide an introduction to the
 
 Thursday, 2/24 9 am - 11:30 am PT
 
-This social-coworking session will consist of three 25-minute Pomodoro-style work sessions with 5-minute breaks in between and ~15 minutes in the beginning for like introductions and intention setting and at the end for reflection and debriefing.
+This social-coworking session will consist of three 25-minute focused work sessions with 5-minute breaks in between and ~15 minutes in the beginning for introductions and intention setting and at the end for reflection and debriefing. This session can also be used for colllaborative working.
 
 [Social Co-working calendar information](https://www.nih-cfde.org/events/hackathon/)
 
