@@ -12,7 +12,7 @@ Register here: [https://www.nih-cfde.org/events/hackathon/](https://www.nih-cfde
 
 | Date | Time | Calendar Event | GitHub Links | 
 | --- | --- | --- | --- |
-| Monday 2/21 |  9 am - 11:30 am PT | [Introduction to data sets](https://www.nih-cfde.org/events/common-fund-february-hackathon-introduction-to-data-sets/) | |
+| Monday 2/21 |  9 am - 11:00 am PT | [Introduction to data sets](https://www.nih-cfde.org/events/common-fund-february-hackathon-introduction-to-data-sets/) | |
 | Monday 2/21 |  12 pm - 2:30 pm PT | [CFDE Portal session](https://www.nih-cfde.org/events/common-fund-february-hackathon-cfde-portal-demo/) | [CFDE Portal Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/8) |
 | Tuesday 2/22 | 9 am - 11:30 am PT | [Extracellular RNA session](https://www.nih-cfde.org/events/common-fund-february-hackathon-exrna-session/) | [exRNA Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/2) |
 | Tuesday 2/22 | 12 pm - 2:30 pm PT | [Human Microbiome Project with Amazon Web Services session](https://www.nih-cfde.org/events/common-fund-february-hackathon-hmp-session/) | [HMP Issue](https://github.com/nih-cfde/2022-feb-hackathon/issues/13) |
