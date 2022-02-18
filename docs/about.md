@@ -54,7 +54,7 @@ The Metabolomics Workbench Hackathon Session will provide an introduction to the
 
 Thursday, 2/24 9 am - 11:30 am PT
 
-This social-coworking session will consist of three 25-minute focused work sessions with 5-minute breaks in between and ~15 minutes in the beginning for introductions and intention setting and at the end for reflection and debriefing. This session can also be used for colllaborative working.
+This social-coworking session will consist of three 25-minute focused work sessions with 5-minute breaks in between and ~15 minutes in the beginning for introductions and intention setting and at the end for reflection and debriefing. This session can also be used for collaborative working.
 
 [Social Co-working calendar information](https://www.nih-cfde.org/events/hackathon/)
 
