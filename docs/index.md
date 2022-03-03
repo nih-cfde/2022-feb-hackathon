@@ -1,5 +1,7 @@
 # NIH Common Fund Data Ecosystem Hackathon 
 
+**The February Hackathon is concluded! Please see the [Session Details and Recordings Page](https://nih-cfde.github.io/2022-feb-hackathon/about/) to view sessions recordings.**
+
 We are pleased to announce that the NIH Common Fund Data Ecosystem (CFDE) will be hosting an online hackathon on NIH Common Fund data sets from **February 21 - 25, 2022**. The [hackathon schedule](https://nih-cfde.github.io/2022-feb-hackathon/schedule/) has both synchronous and asynchronous work, with concentrated hackathon sessions on specific data sets. Participants can attend whichever hackathon sessions they are interested in. Participants can also form working groups and tackle issues throughout the week organized in the [hackathon GitHub repository](https://github.com/nih-cfde/2022-feb-hackathon). 
 
 #### Hackathon Benefits
